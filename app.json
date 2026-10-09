@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Atividade SQLite",
+    "slug": "atividade09-10",
+    "scheme": "atividade0910",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
